@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-11",
+  "stories": [
+    {
+      "title": "Anthropic Launches The Anthropic Institute",
+      "url": "https://www.anthropic.com/news/the-anthropic-institute",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&backgroundColor=oat",
+      "tab": "AI News",
+      "tier": "Must-Read"
+    },
+    {
+      "title": "Google Deploys Eight Gemini AI Agents to the Pentagon for 3 Million DoD Personnel",
+      "url": "https://dataconomy.com/2026/03/11/google-expands-pentagon-partnership-with-gemini-ai-agents-for-3-million-staff/",
+      "image": "https://dataconomy.com/wp-content/uploads/2026/03/google-pentagon-gemini-agents_result.jpg",
+      "tab": "AI News",
+      "tier": "Must-Read"
+    },
+    {
+      "title": "Yann LeCun's AMI Labs Raises $1.03B Seed Round at $3.5B Valuation",
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg",
+      "tab": "AI News",
+      "tier": "Must-Read"
+    },
+    {
+      "title": "OpenAI Launches Codex Security in Research Preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview/",
+      "image": null,
+      "tab": "AI News",
+      "tier": "Must-Read"
+    },
+    {
+      "title": "Meta Acquires Moltbook, the AI-Agent-Only Social Network",
+      "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-1485567434.jpg",
+      "tab": "AI News",
+      "tier": "Must-Read"
+    },
+    {
+      "title": "Legora Raises $550M Series D at $5.55B Valuation",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/MaxJunestrand1.jpeg",
+      "tab": "AI News",
+      "tier": "Worth Knowing"
+    },
+    {
+      "title": "Anthropic Opens Sydney Office — Fourth Asia-Pacific Location",
+      "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&backgroundColor=sky",
+      "tab": "AI News",
+      "tier": "Worth Knowing"
+    },
+    {
+      "title": "AMI Labs JEPA: Yann LeCun's World Model Architecture",
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg",
+      "tab": "AI Breakthroughs & Viral",
+      "tier": "Breakthrough"
+    },
+    {
+      "title": "Google's Pentagon Deployment: 3 Million DoD Users, No-Code Custom Agent Builder",
+      "url": "https://dataconomy.com/2026/03/11/google-expands-pentagon-partnership-with-gemini-ai-agents-for-3-million-staff/",
+      "image": "https://dataconomy.com/wp-content/uploads/2026/03/google-pentagon-gemini-agents_result.jpg",
+      "tab": "AI Breakthroughs & Viral",
+      "tier": "Breakthrough"
+    },
+    {
+      "title": "OpenAI Codex Security: 1.2 Million Commits, 84% Noise Reduction on Repeat Scans",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview/",
+      "image": null,
+      "tab": "AI Breakthroughs & Viral",
+      "tier": "Breakthrough"
+    },
+    {
+      "title": "CyberStrikeAI Open-Source Attack Platform Used to Compromise 600+ FortiGate Devices in 55 Countries",
+      "url": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1700-e365/cyberattacks.jpg",
+      "tab": "Cyber Intel",
+      "section": "AI x Cyber"
+    },
+    {
+      "title": "Mandiant Founder Kevin Mandia Raises $190M for Armadin",
+      "url": "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/",
+      "image": null,
+      "tab": "Cyber Intel",
+      "section": "AI x Cyber"
+    },
+    {
+      "title": "Kai Security Emerges from Stealth with $125M",
+      "url": "https://fintech.global/2026/03/11/cybersecurity-firm-kai-secures-125m-for-ai-defence/",
+      "image": null,
+      "tab": "Cyber Intel",
+      "section": "AI x Cyber"
+    },
+    {
+      "title": "KadNap Botnet Hijacks 14,000+ ASUS Routers via Kademlia P2P DHT Protocol",
+      "url": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_JhuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1700-e365/router-botnet.jpg",
+      "tab": "Cyber Intel",
+      "section": "Active Threats"
+    },
+    {
+      "title": "Microsoft March 2026 Patch Tuesday: 79 CVEs Including 2 Zero-Days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/",
+      "image": null,
+      "tab": "Cyber Intel",
+      "section": "Active Threats"
+    },
+    {
+      "title": "SANS ISC March 11 Stormcast: Windows, Fortinet, Adobe, and Zoom Patches",
+      "url": "https://isc.sans.edu/diary/rss/32784",
+      "image": null,
+      "tab": "Cyber Intel",
+      "section": "OSINT Signal"
+    }
+  ]
+}
